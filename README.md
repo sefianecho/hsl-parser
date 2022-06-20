@@ -6,9 +6,9 @@ Install via npm:
 
 ```npm i hsl-parser```
 
-Install via yaml:
+Install via yarn:
 
-`yaml add hsl-parser`
+`yarn add hsl-parser`
 
 ## Usage
 ```javascript
