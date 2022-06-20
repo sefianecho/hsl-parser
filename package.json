@@ -1,0 +1,27 @@
+{
+  "name": "hsl-parser",
+  "version": "1.0.0",
+  "description": "Parse an HSL color string and output its values in an object or in an array, or test if a string is a valid hsl color string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SofianChouaib/hsl-parser.git"
+  },
+  "keywords": [
+    "hsl",
+    "color",
+    "parser",
+    "parse",
+    "test",
+    "hsla"
+  ],
+  "author": "Sefiane Chouaib <sefian.chouaib@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SofianChouaib/hsl-parser/issues"
+  },
+  "homepage": "https://github.com/SofianChouaib/hsl-parser#readme"
+}
