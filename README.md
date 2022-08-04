@@ -14,13 +14,12 @@ Install via yarn:
 ```javascript
 import { hslParser } from 'hsl-parser';
 
-const hsl = hslParser();
-
-hsl.parse('hsl(120, 20%, 30%)');
+hslParser.parse('hsl(120, 20%, 30%)');
 
 // output
 // { h: 120, s: 20, l: 30, a: 1 }
 ```
+
 ## Methods
 - parse(`hslString`, `asArray`) - parse hsl color into an object or as an array if `asArray` is set to `true`
 - isValid(`hslString`) - Test if a hsl color string is valid.
