@@ -12,7 +12,7 @@ Install via yarn:
 
 ## Usage
 ```javascript
-import { hslParser } from 'hsl-parser';
+import hslParser from 'hsl-parser';
 
 hslParser.parse('hsl(120, 20%, 30%)');
 
