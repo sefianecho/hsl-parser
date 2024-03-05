@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SofianChouaib/hsl-parser.git"
+    "url": "git+https://github.com/sefianecho/hsl-parser.git"
   },
   "keywords": [
     "hsl",
@@ -21,7 +21,7 @@
   "author": "Sefiane Chouaib <sefian.chouaib@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SofianChouaib/hsl-parser/issues"
+    "url": "https://github.com/sefianecho/hsl-parser/issues"
   },
-  "homepage": "https://github.com/SofianChouaib/hsl-parser#readme"
+  "homepage": "https://github.com/sefianecho/hsl-parser#readme"
 }
